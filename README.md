@@ -10,7 +10,7 @@
     docker build -t my-python-app .
 
     
-
+# docker run -t convertion -v $PWD\images.output:\app images
 
 
 
